@@ -7,4 +7,7 @@ header,footer{background-color: #499cba;color:#ceeffe;text-align:center;font-siz
 main{background-color: #8ddefc;}
 nav li{text-transform:uppercase;list-style: none;display: inline;margin-left: 10px;text-align: right;}
 nav a{color:rgb(119, 19, 250);text-decoration:none;text-align: right;}
-PRIMEIROPARAGRAFO{text-align: justify;font-size: 18px;border: black solid;}
+PRIMEIROPARAGRAFO{text-align: justify;font-size: 18px;border: black solid 2px;padding: 10px;margin: 10px;}
+#TITULOIMAGEM{width;5%;height:5%;}
+#lista01{display: block;text-align: center;}
+#lista02{display: inline-block;}
